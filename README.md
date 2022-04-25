@@ -10,7 +10,7 @@
 
 ## Tutorial
 
-`notebooks/crypten-test.ipynb` presents a brief tutorial on PyTorch model encryption using CrypTen.
+`notebooks/crypten-pytorch.ipynb` presents a brief tutorial on PyTorch model encryption using CrypTen.
 
 ## References
 
