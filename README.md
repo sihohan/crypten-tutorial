@@ -1,6 +1,6 @@
 # PyTorch model encryption using CrypTen
 
-This is a tutorial for PyTorch model encryption using [CrypTen](https://github.com/facebookresearch/CrypTen).
+[CrypTen](https://github.com/facebookresearch/CrypTen) is a framework for privacy-preserving Machine Learning developed by [Facebook AI Research](https://ai.facebook.com/).
 
 ## Requirements
 
