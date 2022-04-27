@@ -4,13 +4,13 @@
 
 ## Requirements
 
-* python >= 3.7
+* [python >= 3.7](https://www.python.org/downloads/)
 * [torch >= 1.7.0](https://pytorch.org/get-started/locally/)
 * [crypten == 0.4.0](https://pypi.org/project/crypten/)
 
 ## Tutorial
 
-`notebooks/crypten-pytorch.ipynb` presents a brief tutorial on PyTorch model encryption using CrypTen.
+`notebooks/crypten-pytorch.ipynb` presents a brief tutorial on PyTorch model encryption using CrypTen. The tutorial assumes the existence of a pre-trained model in the `models` directory in the form of a pt/pth file.
 
 ## References
 
